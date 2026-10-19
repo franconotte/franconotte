@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Analista+Programador;Full+Stack+Developer;DevOps+%26+Cloud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Programmer+Analyst;Full+Stack+Developer;DevOps+%26+Cloud)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-**Analista Programador** from **ORT University, Uruguay**, currently finishing the **DevOps Certificate**. I build things end to end — from the C# backend and the React frontend to the Docker image and the pipeline that ships it.
+**Programmer Analyst** from **ORT University, Uruguay**, now studying for my **IT Analyst** degree and finishing the **DevOps Certificate**. I build things end to end — from the C# backend and the React frontend to the Docker image and the pipeline that ships it.
 
-- 🎓 **Analista Programador**, ORT Uruguay
+- 🎓 **Programmer Analyst**, ORT Uruguay — **IT Analyst** degree in progress
 - 🏋️ Delivered **GymFlow**, a gym management platform built with a team (.NET + React + Docker)
 - ⚙️ Focused on **CI/CD, containers and Infrastructure as Code**
 - 🇺🇾 Based in Montevideo, Uruguay
