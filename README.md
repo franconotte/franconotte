@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;IT+Analyst+Student+%40+ORT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Analista+Programador;Full+Stack+Developer;DevOps+%26+Cloud)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-IT Analyst student at **ORT University, Uruguay**, about to graduate, currently finishing the **DevOps Certificate**. I like building things end to end — from the C# backend and the React frontend to the Docker image and the pipeline that ships it.
+**Analista Programador** from **ORT University, Uruguay**, currently finishing the **DevOps Certificate**. I build things end to end — from the C# backend and the React frontend to the Docker image and the pipeline that ships it.
 
-- 🎓 Studying **Analista en Tecnologías de la Información** at ORT since 2023
-- 🏋️ Working on **GymFlow**, my final project: a gym management platform (.NET + React + Docker)
-- ⚙️ Into **CI/CD, containers and Infrastructure as Code**
+- 🎓 **Analista Programador**, ORT Uruguay
+- 🏋️ Delivered **GymFlow**, a gym management platform built with a team (.NET + React + Docker)
+- ⚙️ Focused on **CI/CD, containers and Infrastructure as Code**
 - 🇺🇾 Based in Montevideo, Uruguay
 
 ---
@@ -51,38 +51,29 @@ IT Analyst student at **ORT University, Uruguay**, about to graduate, currently 
 
 ---
 
-## 🌱 I'm Currently Learning
-
-- Infrastructure as Code with **Terraform**
-- **AWS** core services: EC2, VPC, S3, RDS, Auto Scaling
-- Pipeline security: image scanning, secret detection, quality gates
-- **Kubernetes** and container orchestration
-
----
-
-## 📌 Featured Project
+## 📌 Projects
 
 ### 🏋️ GymFlow
 
-Gym management platform built as my final university project, in a team.
+Gym management platform, built with a team and delivered as our final university project.
 
 `.NET` · `React + TypeScript` · `Docker Compose` · `Postman test suite`
 
-Members, classes, schedules and bookings — with the API covered by automated tests and the whole stack containerised.
+Members, classes, schedules and bookings — API covered by automated tests, whole stack containerised.
+
+### ⚙️ DevOps pipelines
+
+CI/CD pipelines with security and quality gates: Trivy for image scanning, SonarCloud for the quality gate, Gitleaks for secret detection, branch protection and environment approvals before production.
+
+`GitHub Actions` · `CircleCI` · `Docker` · `Trivy` · `SonarCloud`
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently Learning
 
-<div align="center">
-
-![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=franconotte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=franconotte&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franconotte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
+- Infrastructure as Code with **Terraform**
+- **AWS**: EC2, VPC, S3, RDS, Auto Scaling, load balancing
+- **Kubernetes** and container orchestration
 
 ---
 
@@ -92,13 +83,5 @@ Members, classes, schedules and bookings — with the API covered by automated t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franconotte)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franconotte@icloud.com)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=franconotte&style=flat-square&color=36BCF7)
 
 </div>
